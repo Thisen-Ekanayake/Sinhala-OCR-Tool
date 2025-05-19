@@ -92,7 +92,6 @@ def select_files():
     messagebox.showinfo("Done", "OCR extraction completed for all files!")
     root.destroy()
 
-
 # ======================= MAIN ENTRY ==============================
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
