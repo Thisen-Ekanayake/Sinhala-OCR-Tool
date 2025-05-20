@@ -31,7 +31,7 @@ C:\Program Files\Tesseract-OCR\tesseract.exe
 ```
 - Extract the Poppler ZIP and note the bin folder path *(e.g.,)*
 ```
-...\poppler-xx\Library\bin)
+...\poppler-xx\Library\bin
 ```
 
 **2. (If using source code) Install Python requirements**
