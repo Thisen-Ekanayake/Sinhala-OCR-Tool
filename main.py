@@ -31,7 +31,7 @@ def extract_text_from_images(folder):
         image_path = os.path.join(folder, image_file)
         try:
             image = Image.open(image_path)
-            page_text = pytesseract.image_to_string(image, lang="sin")
+            page_text = pytesseract.image_to_string(image, lang="sin+eng")
             if not page_text.strip():
                 logging.warning(f"No text found in: {image_path}")
             text += page_text + "\n\n"
