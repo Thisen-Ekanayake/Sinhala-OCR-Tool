@@ -1,7 +1,15 @@
 # Sinhala PDF OCR Tool
-A simple, standalone GUI application to convert scanned Sinhala-language PDFs into plain .txt files using Tesseract OCR.
 
-Built for ease of use even for non-technical users - this tool leverages Python, PDF-to-image conversion, and OCR techniques to extract meaningful text from image-based Sinhala documents.
+A simple, standalone GUI application to convert **scanned Sinhala and English PDFs** into clean `.txt` files using Tesseract OCR.
+
+Built for ease of use - even for non-technical users—this tool uses Python, Tesseract, and Poppler to extract meaningful text from image-based documents, including mixed-language content (Sinhala + English). 
+
+Perfect for digitizing school textbooks, government gazettes, Hansard reports, and other printed material in Sinhala or Sinhala-English formats.
+
+[![Version](https://img.shields.io/badge/version-v1.1.0-blue)](https://github.com/Thisen-Ekanayake/sinhala-ocr-tool/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Download](https://img.shields.io/badge/Download-.exe-blue?style=flat&logo=windows)](https://github.com/Thisen-Ekanayake/sinhala-ocr-tool/releases/download/v1.1.0/Sinhala-OCR-Tool.exe)
+
 
 ## Features
 - File picker to select one or more PDF files (via GUI)
