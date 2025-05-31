@@ -8,7 +8,7 @@ Perfect for digitizing school textbooks, government gazettes, Hansard reports, a
 
 [![Version](https://img.shields.io/badge/version-v1.1.0-blue)](https://github.com/Thisen-Ekanayake/sinhala-ocr-tool/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Download](https://img.shields.io/badge/Download-.exe-blue?style=flat&logo=windows)](https://github.com/Thisen-Ekanayake/sinhala-ocr-tool/releases/download/v1.1.0/Sinhala-OCR-Tool.exe)
+[![Download](https://img.shields.io/badge/Download-.exe-blue?style=flat&logo=windows)](https://github.com/Thisen-Ekanayake/Sinhala-OCR-Tool/releases/download/v1.1.0/Sinhala_OCR_v.1.1.0.exe)
 
 
 ## Features
